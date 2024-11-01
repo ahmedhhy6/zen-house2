@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: flex-start; /* Align items to the top */
+  height: 100vh; /* Full height of the viewport */
+  margin: auto;
+  background-color: #f0f0f0; /* Optional background color */
+  width: 50%;
+}
+
+.container {
+  text-align: center;
+  width: 300px; /* Adjust width as needed */
+  padding: 20px;
+  margin-top: 20px; /* Add margin to move it down from the top */
+  background-color: white; /* Optional background color for the container */
+  box-shadow: 0 4px 8px rgba(40, 40, 40, 0.1); /* Optional shadow */
+  border-radius: 8px; /* Optional rounded corners */
+}
